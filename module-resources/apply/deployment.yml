@@ -19,7 +19,7 @@ spec:
   template:
     metadata:
       annotations:
-        checksum/config: 2c5129bfeed2e15d29a3d0bdab02c77ea5feaec7eb531aaa97ca1e31075a6fcb
+        checksum/config: b2a891ce109f3d635bb8a83f34738c611067948ba27b7bde46dd2805761a621e
         sidecar.istio.io/inject: "false"
       labels:
         control-plane: controller-manager
